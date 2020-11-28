@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Car-racing-game-master",
+    "\\Car-racing-game-master\\.circleci",
+    "\\Car-racing-game-master\\CMake",
+    "\\Car-racing-game-master\\include",
+    "\\Car-racing-game-master\\libs",
+    "\\Car-racing-game-master\\res",
+    "\\Car-racing-game-master\\src"
+  ],
+  "SelectedNode": "\\Car-racing-game-master\\libs\\Game.cpp",
+  "PreviewInSolutionExplorer": false
+}
